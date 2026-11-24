@@ -6,9 +6,9 @@
 /NAME:"UnrealEditor-AdvancedSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"B:\MultiplayerFinal - Copy - Copy\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
-"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
-"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3_of_3.cpp.obj"
-"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
-/OUT:"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"
+"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
+"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
+"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3_of_3.cpp.obj"
+"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"

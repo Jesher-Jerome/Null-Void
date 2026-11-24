@@ -1,23 +1,23 @@
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AutoLoginUserCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AutoLoginUserCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h

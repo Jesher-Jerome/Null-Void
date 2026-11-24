@@ -1,6 +1,6 @@
-"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp"
+"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp"
 /I .
-/I "B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Private"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem\Source
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
@@ -283,24 +283,24 @@
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I "B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSessions\UHT"
-/I "B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source"
-/I "B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSessions\UHT"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes"
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"B:\MultiplayerFinal - Copy - Copy\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"B:\MultiplayerFinal - Copy - Copy\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"B:\MultiplayerFinal - Copy - Copy\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
-/sourceDependencies "B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.dep.json"
+/external:I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
+/FI"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
+/sourceDependencies "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi

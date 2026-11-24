@@ -1,23 +1,23 @@
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AutoLoginUserCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-B:\MultiplayerFinal - Copy - Copy\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AutoLoginUserCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
+F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h

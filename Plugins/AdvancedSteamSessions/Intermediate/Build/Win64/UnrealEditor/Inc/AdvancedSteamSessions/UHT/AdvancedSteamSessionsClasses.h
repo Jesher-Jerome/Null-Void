@@ -7,9 +7,9 @@
 #pragma once
 
 
-#include "B:/MultiplayerFinal - Copy - Copy/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
-#include "B:/MultiplayerFinal - Copy - Copy/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
-#include "B:/MultiplayerFinal - Copy - Copy/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamNotificationsSubsystem.h"
-#include "B:/MultiplayerFinal - Copy - Copy/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
-#include "B:/MultiplayerFinal - Copy - Copy/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
+#include "F:/GAMEDEV FILES/Tactical FPS/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
+#include "F:/GAMEDEV FILES/Tactical FPS/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
+#include "F:/GAMEDEV FILES/Tactical FPS/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamNotificationsSubsystem.h"
+#include "F:/GAMEDEV FILES/Tactical FPS/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
+#include "F:/GAMEDEV FILES/Tactical FPS/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
 

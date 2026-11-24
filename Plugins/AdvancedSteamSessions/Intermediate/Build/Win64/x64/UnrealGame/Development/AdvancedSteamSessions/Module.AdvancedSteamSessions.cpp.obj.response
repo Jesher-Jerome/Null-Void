@@ -1,6 +1,6 @@
-"J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
 /I .
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem\Source
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
@@ -116,13 +116,13 @@
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT
 /I Runtime\TypedElementRuntime\Public
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Source"
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT"
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source"
-/I "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Source"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source"
+/I "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystemSteam\UHT
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Classes
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Public
@@ -132,17 +132,17 @@
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I ThirdParty\Steamworks\Steamv153\sdk\public
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Intermediate\Build\Win64\x64\MultiplayerV2\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Yu"J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Intermediate\Build\Win64\x64\MultiplayerV2\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Intermediate\Build\Win64\x64\MultiplayerV2\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-/sourceDependencies "J:\GAMEDEV FILES\Metagame Design Batch 2\Metagame Design Submission\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.dep.json"
+/external:I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
+/FI"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Yu"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"F:\GAMEDEV FILES\Tactical FPS\Intermediate\Build\Win64\x64\MultiplayerV2\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/sourceDependencies "F:\GAMEDEV FILES\Tactical FPS\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
